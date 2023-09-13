@@ -1,8 +1,14 @@
-# Lan-Chat-and-Port-Scanner
-Lan Chat and Port Scanner
+# LAN Chat and Port Scanner
 
-Run Startchat.py file to start the program
+Integrated LAN Chat and Port Scanner using Python
 
-server.py and client.py are Server side program Client-side program.
+Built with
+Python
+Socket
+Threading
+ttkbootstrap ttkbootstrap.readthedocs.io/en/latest/
+Prerequisite
+Install ttkbootstrap using one of the following commands
 
-
+python -m pip install ttkbootstrap
+python -m pip install git+https://github.com/israel-dryer/ttkbootstrap
